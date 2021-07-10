@@ -134,7 +134,7 @@ int main(int argc, char** argv) {
 
 	/*Set the posotion of window*/
 	glutInitWindowPosition(0, 0);
-	glutCreateWindow("My Vindow");
+	glutCreateWindow("SimplePaint");
 
 	 
 	glutMouseFunc(mouseclick);
